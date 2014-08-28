@@ -1,0 +1,44 @@
+RGB Games 
+
+Generic Strategy Framework v1.0
+
+
+Copyright-----
+-----
+	If you bought this for Unity Asset Store you can use or extend it the way you want. 
+
+It will not be charged any royalty in this case.
+
+-------------------
+
+
+
+Terrain Detail-----
+
+	To use it and place grass or flowers you need to set Detail Resolution: Terrain > Set Resolution... 
+
+and change the value of property Detail Resolution from 1024 to 512
+
+-------------------
+
+
+Samples------------
+
+	To view the samples add the Unity Asset "Terrain Assets"
+
+-------------------
+
+
+
+How to Use---------
+
+	You can watch the videos to learn how to use this asset:
+	http://www.youtube.com/watch?v=WOu_AzHNkTk
+	http://www.youtube.com/watch?v=ue6VfF8jLEw
+
+-------------------
+
+
+
+
+Contact: rgbgamesdev@gmail.com

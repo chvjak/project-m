@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 162218cbf49ce1b41a8da3e2f07fbfaf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Cylinder020
+    100004: Cylinder027
+    100006: Cylinder029
+    100008: Cylinder047
+    100010: Cylinder051
+    100012: Cylinder052
+    100014: Cylinder053
+    100016: Cylinder054
+    100018: Cylinder055
+    100020: Cylinder056
+    100022: Group001
+    100024: //RootNode
+    400000: Box002
+    400002: Cylinder020
+    400004: Cylinder027
+    400006: Cylinder029
+    400008: Cylinder047
+    400010: Cylinder051
+    400012: Cylinder052
+    400014: Cylinder053
+    400016: Cylinder054
+    400018: Cylinder055
+    400020: Cylinder056
+    400022: Group001
+    400024: //RootNode
+    2300000: Box002
+    2300002: Cylinder020
+    2300004: Cylinder027
+    2300006: Cylinder029
+    2300008: Cylinder047
+    2300010: Cylinder051
+    2300012: Cylinder052
+    2300014: Cylinder053
+    2300016: Cylinder054
+    2300018: Cylinder055
+    2300020: Cylinder056
+    3300000: Box002
+    3300002: Cylinder020
+    3300004: Cylinder027
+    3300006: Cylinder029
+    3300008: Cylinder047
+    3300010: Cylinder051
+    3300012: Cylinder052
+    3300014: Cylinder053
+    3300016: Cylinder054
+    3300018: Cylinder055
+    3300020: Cylinder056
+    4300000: Box002
+    4300002: Cylinder020
+    4300004: Cylinder047
+    4300006: Cylinder029
+    4300008: Cylinder027
+    4300010: Cylinder051
+    4300012: Cylinder052
+    4300014: Cylinder053
+    4300016: Cylinder054
+    4300018: Cylinder055
+    4300020: Cylinder056
+    7400000: motopexota animation podbitue
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

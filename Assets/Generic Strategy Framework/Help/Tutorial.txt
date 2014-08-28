@@ -1,0 +1,30 @@
+It's easy to create the basis for your strategy game with this Asset:
+
+1 - Create a mesh of nodes - Top Menu > GSF > Create - and choose the number of nodes;
+
+2 - Create a terrain if you have not one;
+
+3 - Add the script "TerrainFOW" to terrain to enable Fog Of War - GSF > Scripts > TerrainFOW;
+
+4 - To use "Terrain Detail" and place grass or flowers you need to set Detail Resolution: Terrain > Set Resolution...
+	and change the value of property Detail Resolution from 1024 to 512;
+
+5 - Add from one to four players in Scene - GSF > Prefabs > Units > Player - rename it if you want and choose one color;
+
+6 - Choose the Current Player. Go to your GameManager object and drag the player that is th current to it;
+
+7 - Add units - GSF > Prefabs > Units > Unit - and set their Players. You can rename it or change the materials if you want;
+
+8 - Drag the script "RTSCam" to your Main Camera;
+
+9 - Develop your game from this point.
+
+Obs 1: If you want to change the game mode, from TBS to RTS edit the Script "GameManager" in this line:
+//The type of Game, by default is TBS
+public static GameType gameType = GameType.TBS;
+
+Obs 2: If you can see the hexagons at runtime go to Terrain object and check the box "View Hexagons".
+
+You can edit the source code of this Asset the way you want.
+
+If you have any specific questions on how the Asset works or how to extend it, please sende a email to rgbgamesdev@gmail.com
