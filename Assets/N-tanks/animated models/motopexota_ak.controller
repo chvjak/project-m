@@ -20,6 +20,26 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+--- !u!1101 &110106980
+Transition:
+  serializedVersion: 2
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_SrcState: {fileID: 110265424}
+  m_DstState: {fileID: 110200000}
+  m_TransitionDuration: .0107143866
+  m_TransitionOffset: 0
+  m_Conditions:
+  - m_ConditionMode: 5
+    m_ConditionEvent: 
+    m_EventTreshold: 0
+    m_ExitTime: .972142756
+  m_Atomic: 0
+  m_Solo: 0
+  m_Mute: 0
+  m_CanTransitionToSelf: 0
 --- !u!1101 &110128566
 Transition:
   serializedVersion: 2
@@ -69,13 +89,13 @@ Transition:
   m_Name: 
   m_SrcState: {fileID: 110265424}
   m_DstState: {fileID: 110246019}
-  m_TransitionDuration: .0749999955
-  m_TransitionOffset: 0
+  m_TransitionDuration: .00642857468
+  m_TransitionOffset: .00428574206
   m_Conditions:
   - m_ConditionMode: 5
     m_ConditionEvent: 
     m_EventTreshold: 0
-    m_ExitTime: .925000012
+    m_ExitTime: .993571341
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -201,6 +221,10 @@ StateMachine:
       second:
       - {fileID: 110164433}
       - {fileID: 110159604}
+      - {fileID: 110106980}
+    data:
+      first: {fileID: 110200000}
+      second: []
     data:
       first: {fileID: 110246019}
       second:
@@ -210,5 +234,5 @@ StateMachine:
       second:
       - {fileID: 110190537}
   m_MotionSetCount: 1
-  m_AnyStatePosition: {x: 84, y: 24, z: 0}
+  m_AnyStatePosition: {x: 72, y: 24, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
